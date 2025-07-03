@@ -23,11 +23,6 @@ Progress will be updated in real-time on [Twitter](https://twitter.com/EclipsePr
 - [x] Hide some obviously unusable Apps from the homepage
 - [x] i18n internationalization support
 
-Next Stage Plan
+[Powered by DartNode](https://dartnode.com 'Powered by DartNode - Free VPS for Open Source')
 
-- [ ] Add user login function
-- [ ] Ability to like and sort accordingly
-- [ ] Ability to save favorites and create your own list of App applications
-- [ ] Allow creators to profit from the platform!
-- [ ] Add tags for Apps
-- [ ] Ability to create private-only personal apps
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com 'Powered by DartNode - Free VPS for Open Source')
